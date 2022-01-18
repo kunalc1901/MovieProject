@@ -1,0 +1,45 @@
+.navbar-custom {
+    background-color: #262626;
+  }
+
+  .custom-search {
+    border-color: black;
+    color: black;
+  }
+
+  .custom-search:hover {
+    color: white;
+    background-color: black;
+  }
+
+  .grid {
+    height: 480px;
+  }
+
+  .grid-row {
+    margin-top: 50px;
+  }
+
+#search
+{
+    width: 300px;
+}
+
+#head-row
+{
+  background-color: #262626;
+  color: white;
+}
+
+.modal-header
+{
+  color: white;
+  background-color: black;
+}
+
+.footer
+{
+  background-color: #262626;
+  color: white;
+  margin-top: 50px;
+}

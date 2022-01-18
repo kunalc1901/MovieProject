@@ -1,0 +1,15 @@
+{
+  "name": "movieproject",
+  "version": "1.0.0",
+  "description": "Movie details fetching Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kunal Choudhary",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "requests": "^0.3.0"
+  }
+}
